@@ -14,9 +14,6 @@
 <td width="100" align="center"><img src="/image/PROFILE1.png" width="60" height="60"></td>
 <td width="100" align="center">이무열</td>
 <td width="150">프론트엔드 개발<br>서버 환경 구축<br>영상 작업 등</td>
-<td width="110" align="center">
-	<a href="https://kookbang.dema.mil.kr/newsWeb/20200324/1/BBSMSTR_000000100108/view.do">
-		<img src="/image/dema.png" width="30" height="30"/>
 <td width="100" align="center">
 	<a href="https://github.com/dsvp">
 		<img src="http://img.shields.io/badge/dsvp-655ced?style=social&logo=github"/>
