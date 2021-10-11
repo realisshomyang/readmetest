@@ -24,7 +24,7 @@
 	</td>
 </tr>
 <tr>
-<td width="100" align="center"><img src="/image/PROFILE2.png" width="60" height="60"></td>
+<td width="100" align="center"><img src="/image/김태한.jpg" width="60" height="60"></td>
 <td width="100" align="center">김태한</td>
 <td width="300">웹 개발<br></td>
 </td>
