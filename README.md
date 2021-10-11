@@ -38,7 +38,7 @@
 	</td>
 </tr>
 <tr>
-<td width="100" align="center"><img src="/image/김태한.jpg" width="60" height="60"></td>
+<td width="100" align="center"><img src="/image/허승준.jpg" width="60" height="60"></td>
 <td width="100" align="center">허승준</td>
 <td width="300">앱 개발<br>API 설계<br></td>
 </td>
@@ -53,20 +53,19 @@
 </tr>
 <tr>
 <td width="100" align="center"><img src="/image/PROFILE2.png" width="60" height="60"></td>
-<td width="100" align="center">김정훈</td>
-<td width="300">백엔드 개발<br>API 설계<br>문서화 작업 등</td>
+<td width="100" align="center">조명근</td>
+<td width="300">아두이노 개발<br>문서화 작업<br></td>
 </td>
 <td width="100" align="center">
-	<a href="https://github.com/LiiNen">
-		<img src="http://img.shields.io/badge/LiiNen-655ced?style=social&logo=github"/>
+	<a href="https://github.com/realisshomyang">
+		<img src="http://img.shields.io/badge/realisshomyang-655ced?style=social&logo=github"/>
 	</a>
 </td>
 <td width="175" align="center">
-	<a href="mailto:kjeonghoon065@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=kjeonghoon065@gmail.com&color=green&style=flat-square&logo=gmail"></a>
+	<a href="mailto:mgmg612@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=mgmg612@gmail.com&color=green&style=flat-square&logo=gmail"></a>
 	</td>
 </tr>
 </tr>
 </tbody>
 </table>
-<br>
-<h3 align="center"><img src="/image/LOGO_README.jpg"></h3>
+
