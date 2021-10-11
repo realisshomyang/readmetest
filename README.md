@@ -5,7 +5,6 @@
 <th width="100" align="center">사진</th>
 <th width="100" align="center">성명</th>
 <th width="150" align="left">담당</th>
-<th width="110" align="center">기타 활동</th>
 <th width="100" align="center">깃허브</th>
 <th width="175" align="center">이메일</th>
 </tr> 
