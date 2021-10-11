@@ -11,7 +11,7 @@
 </thead>
 <tbody>
 <tr>
-<td width="100" align="center"><img src="/image/PROFILE1.png" width="60" height="60"></td>
+<td width="100" align="center"><img src="/image/박규한.jpg" width="60" height="60"></td>
 <td width="100" align="center">박규한</td>
 <td width="150">백엔드 개발<br>서버 환경 구축<br>데이터베이스 설계</td>
 <td width="100" align="center">
