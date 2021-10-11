@@ -20,7 +20,7 @@
 	</a>
 </td>
 <td width="175" align="center">
-	<a href="mailto:muyeol95@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=muyeol95@gmail.com&color=orange&style=flat-square&logo=gmail"></a>
+	<a href="mailto:rbgks1937@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=rbgks1937@gmail.com&color=orange&style=flat-square&logo=gmail"></a>
 	</td>
 </tr>
 <tr>
