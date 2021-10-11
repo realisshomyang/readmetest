@@ -38,7 +38,7 @@
 	</td>
 </tr>
 <tr>
-<td width="100" align="center"><img src="/image/PROFILE2.png" width="60" height="60"></td>
+<td width="100" align="center"><img src="/image/김태한.jpg" width="60" height="60"></td>
 <td width="100" align="center">김정훈</td>
 <td width="300">백엔드 개발<br>API 설계<br>문서화 작업 등</td>
 </td>
