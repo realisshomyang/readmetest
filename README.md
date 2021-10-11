@@ -52,7 +52,7 @@
 	</td>
 </tr>
 <tr>
-<td width="100" align="center"><img src="/image/PROFILE2.png" width="60" height="60"></td>
+<td width="100" align="center"><img src="/image/.png" width="60" height="60"></td>
 <td width="100" align="center">조명근</td>
 <td width="300">아두이노 개발<br>문서화 작업<br></td>
 </td>
