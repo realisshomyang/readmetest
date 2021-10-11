@@ -26,7 +26,7 @@
 <tr>
 <td width="100" align="center"><img src="/image/PROFILE2.png" width="60" height="60"></td>
 <td width="100" align="center">김태한</td>
-<td width="300">웹 개발<br><br>문서화 작업 등</td>
+<td width="300">웹 개발<br></td>
 </td>
 <td width="100" align="center">
 	<a href="https://github.com/TaehanKim00">
