@@ -17,10 +17,6 @@
 <td width="110" align="center">
 	<a href="https://kookbang.dema.mil.kr/newsWeb/20200324/1/BBSMSTR_000000100108/view.do">
 		<img src="/image/dema.png" width="30" height="30"/>
-	</a>&nbsp;
-	<a href="https://news.joins.com/article/23733563">
-		<img src="/image/joongang.png" width="30" height="30"/></td>
-	</a>
 <td width="100" align="center">
 	<a href="https://github.com/dsvp">
 		<img src="http://img.shields.io/badge/dsvp-655ced?style=social&logo=github"/>
@@ -34,10 +30,6 @@
 <td width="100" align="center"><img src="/image/PROFILE2.png" width="60" height="60"></td>
 <td width="100" align="center">김정훈</td>
 <td width="300">백엔드 개발<br>API 설계<br>문서화 작업 등</td>
-<td width="110" align="center">
-	<a href="https://youtu.be/eZX5dip7ai0?t=574">
-		<img src="/image/youtube.png" width="30" height="30"/>
-	</a>
 </td>
 <td width="100" align="center">
 	<a href="https://github.com/LiiNen">
