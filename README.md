@@ -25,16 +25,16 @@
 </tr>
 <tr>
 <td width="100" align="center"><img src="/image/PROFILE2.png" width="60" height="60"></td>
-<td width="100" align="center">김정훈</td>
-<td width="300">백엔드 개발<br>API 설계<br>문서화 작업 등</td>
+<td width="100" align="center">김태한</td>
+<td width="300">웹 개발<br><br>문서화 작업 등</td>
 </td>
 <td width="100" align="center">
-	<a href="https://github.com/LiiNen">
-		<img src="http://img.shields.io/badge/LiiNen-655ced?style=social&logo=github"/>
+	<a href="https://github.com/TaehanKim00">
+		<img src="http://img.shields.io/badge/TaehanKim00-655ced?style=social&logo=github"/>
 	</a>
 </td>
 <td width="175" align="center">
-	<a href="mailto:kjeonghoon065@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=kjeonghoon065@gmail.com&color=green&style=flat-square&logo=gmail"></a>
+	<a href="mailto:tk5582lm@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=tk5582lm@gmail.com&color=green&style=flat-square&logo=gmail"></a>
 	</td>
 </tr>
 <tr>
