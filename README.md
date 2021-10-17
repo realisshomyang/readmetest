@@ -10,6 +10,11 @@
 
 [제목 없음](https://www.notion.so/e131e153b3aa460da3c906bb4a23b9f5)
 
+### 1. 군수품 체계 IOT화
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe4054b8-8efb-41a4-8ed5-9d1db9e6e859/Untitled.png)
+
+현재는 군수품마다 스티커가 옆 사진과 같이 붙어 있다. 이런 스티커에 nfc 스티커를 추가하여 간단하게 재고번호, 품명을 담는다.
 <table width="788">
 <thead>
 <tr>
