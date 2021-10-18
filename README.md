@@ -28,7 +28,51 @@
 		<tr>
 			<td colspan=2>
 				<br>
-				<b>ㆍ 🔐 로그인 페이지 / 회원가입 기능</b><br>
+				<b>👁‍🗨 부대 내 창고 관리 기능</b><br>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td width="65%">
+				<h4 align="center">
+				<a href = "https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/login.png?token=ATMLCX4V42GXTG7E5YNPDITBNWB74"><img src="/image/ui/login.png" width="100%" height="100%">
+					</a><br><br>로그인 페이지 웹
+				</h4>
+			</td>
+			<td width="35%">
+	   			<h4 align="center">
+		   		<a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
+		</tr>
+</tbody>
+</table>
+
+<table><tbody>
+		<tr>
+			<td colspan=2>
+				<br>
+				<b>👨🏻‍💻창고 내 물품 재고확인 기능</b><br>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td width="65%">
+				<h4 align="center">
+				<a href = "https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/login.png?token=ATMLCX4V42GXTG7E5YNPDITBNWB74"><img src="/image/ui/login.png" width="100%" height="100%">
+					</a><br><br>로그인 페이지 웹
+				</h4>
+			</td>
+			<td width="35%">
+	   			<h4 align="center">
+		   		<a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
+		</tr>
+</tbody>
+</table>
+
+<table><tbody>
+		<tr>
+			<td colspan=2>
+				<br>
+				<b>😎입/출고 내역 확인 기능</b><br>
 				<br>
 			</td>
 		</tr>
@@ -73,31 +117,6 @@
 
 
 ### FrontEnd
-<table><tbody>
- <tr>
-  <td width="80">
-   <div align="center"><a href="https://flutter.dev/" target="_blank"> <img src="/image/tecstack/flutter.png" width="90" height="60"/> </a><br>Flutter</div>
-  </td>
- </tr>
-</tbody></table>
-<table>
-	<tr>
-		<td>
-			<a><img src="/image/박규한.PNG"></a>
-		</td>
-		<td>
-			<a><img src="/image/GUIDE_THUMBNAIL.png"></a>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<b>소개 영상</b>
-		</td>
-		<td align="center">
-			<b>가이드 영상</b>
-		</td>
-	</tr>
-</table>
 
 
 
@@ -221,97 +240,5 @@
 </tbody>
 </table>
 
-
-<table>
-	<tr>
-		<td>
-			<a><img src="/image/INTRO_THUMBNAIL.png"></a>
-		</td>
-		<td>
-			<a href="https://www.youtube.com/watch?v=Oh-SFOLAom0"><img src="/image/GUIDE_THUMBNAIL.png"></a>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<b>소개 영상</b>
-		</td>
-		<td align="center">
-			<b>가이드 영상</b>
-		</td>
-	</tr>
-</table>
-
-
-
-
-<table><tbody>
-		<tr>
-			<td colspan=2>
-				<br>
-				<b>ㆍ 👁‍🗨 부대 내 창고 관리 기능</b><br>
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td width="65%">
-				<h4 align="center">
-				<a href = "https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/login.png?token=ATMLCX4V42GXTG7E5YNPDITBNWB74"><img src="/image/ui/login.png" width="100%" height="100%">
-					</a><br><br>로그인 페이지 웹
-				</h4>
-			</td>
-			<td width="35%">
-	   			<h4 align="center">
-		   		<a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
-		</tr>
-
-	</tbody>
-</table>
-
-<table><tbody>
-		<tr>
-			<td colspan=2>
-				<br>
-				<b>👨🏻‍💻창고 내 물품 재고확인 기능</b><br>
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td width="65%">
-				<h4 align="center">
-				<a href = "https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/login.png?token=ATMLCX4V42GXTG7E5YNPDITBNWB74"><img src="/image/ui/login.png" width="100%" height="100%">
-					</a><br><br>로그인 페이지 웹
-				</h4>
-			</td>
-			<td width="35%">
-	   			<h4 align="center">
-		   		<a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
-		</tr>
-
-	</tbody>
-</table>
-
-<table>
-	<tbody>
-		<tr>
-			<td colspan=2>
-				<br>
-				<b>😎입/출고 내역 확인 기능</b><br>
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td width="65%">
-				<h4 align="center">
-				<a href = "https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/login.png?token=ATMLCX4V42GXTG7E5YNPDITBNWB74"><img src="/image/ui/login.png" width="100%" height="100%">
-					</a><br><br>로그인 페이지 웹
-				</h4>
-			</td>
-			<td width="35%">
-	   			<h4 align="center">
-		   		<a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
-		</tr>
-
-	</tbody>
-</table>
 
 
