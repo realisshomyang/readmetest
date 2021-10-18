@@ -6,7 +6,7 @@
 <table><tbody>
  <tr>
   <td width="60">
-   <div align="center"><a href="https://nodejs.org" target="_blank"> <img src="/image/tecstack/nodejs.png" width="60" height="60"/> </a><br>Node.js</div>
+   <div align="center"><a href="https://nodejs.org" target="_blank"> <img src="/image/tecstack/nodejs.png" width="80" height="60"/> </a><br>Node.js</div>
   </td>
  </tr>
 </tbody></table>
