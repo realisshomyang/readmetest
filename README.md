@@ -28,11 +28,11 @@
 			</td>
 		</tr>
 		<tr>
-            <td><div align="center"><a href="https://raw.githubusercontent.com/osamhack2020/WEB_KookbangFriends_Woowahan/master/image/mypage1.jpg"><img src="/image/mypage1.jpg" width="60%" height="60%"></a></div></td>
-            <td width="33%"> 로그인 페이지 웹 </td>
+            <td><div align="center"><a href = "https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/login.png?token=ATMLCX4V42GXTG7E5YNPDITBNWB74"><img src="/image/ui/login.png" width="100%" height="100%">
+					</a><br><br>로그인 페이지 웹 </td>
         </tr>
         <tr>
-            <td><div align="center"><a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a></div></td>
+            <td><div align="center"><a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="50%" height="50%"></a></div></td>
            <td>로그인 페이지 앱</td>
         </tr>
 
