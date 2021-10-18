@@ -7,7 +7,8 @@
 		<tr>
 			<td colspan=2>
 				<br>
-				<b>ㆍ 🔐 로그인 페이지 / 회원가입 기능</b></br>
+				<b>ㆍ 🔐 로그인 페이지 / 회원가입 기능</b><br>
+				<br>
 			</td>
 		</tr>
 		<tr>
@@ -24,6 +25,7 @@
 
 	</tbody>
 </table>
+
 <table>
 	<tbody>
 		<tr>
