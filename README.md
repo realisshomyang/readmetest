@@ -13,7 +13,7 @@
    <div align="center"><a href="https://nodejs.org" target="_blank"> <img src="/image/tecstack/Expressjs.png" width="120" height="60"/></a><br>Express</div>
   </td>
   <td width="80">
-   <div align="center"><a href="https://nodejs.org" target="_blank"> <img src="/image/tecstack/Expressjs.png" width="90" height="60"/> </a><br>Node.js</div>
+   <div align="center"><a href="https://nodejs.org" target="_blank"> <img src="/image/tecstack/javascript.png" width="90" height="60"/> </a><br>javascript</div>
   </td>
  </tr>
 </tbody></table>
