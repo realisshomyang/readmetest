@@ -1,8 +1,10 @@
 # readmetest
 
+### 로그인 페이지 / 회원가입 기능
+
 <table><tbody><tr>
-   <td width="50%"><h4 align="center"><a href="https://raw.githubusercontent.com/osamhack2020/WEB_KookbangFriends_Woowahan/master/image/0_HOME.jpg"><img src="/image/0_HOME.jpg" width="72.3307%" height="72.3307%"></a><br><br>국방프렌즈 메인화면</h4></td>
-   <td width="50%"><h4 align="center"><a href="https://raw.githubusercontent.com/osamhack2020/WEB_KookbangFriends_Woowahan/master/image/0_HOME_MOB.jpg"><img src="/image/0_HOME_MOB.jpg" width="75%" height="75%"></a><br><br>모바일 버전</h4></td>
+   <td width="50%"><h4 align="center"><a href="https://raw.githubusercontent.com/osamhack2020/WEB_KookbangFriends_Woowahan/master/image/0_HOME.jpg"><img src="/image/0_HOME.jpg" width="72.3307%" height="72.3307%"></a><br><br>로그인 페이지 웹</h4></td>
+   <td width="50%"><h4 align="center"><a href="https://raw.githubusercontent.com/osamhack2020/WEB_KookbangFriends_Woowahan/master/image/0_HOME_MOB.jpg"><img src="/image/0_HOME_MOB.jpg" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
     </tr></tbody></table>
 
 <table>
