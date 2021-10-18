@@ -128,3 +128,28 @@
 </tbody>
 </table>
 
+
+<table>
+	<tr>
+		<td>
+			<a><img src="/image/INTRO_THUMBNAIL.png"></a>
+		</td>
+		<td>
+			<a href="https://www.youtube.com/watch?v=Oh-SFOLAom0"><img src="/image/GUIDE_THUMBNAIL.png"></a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<b>소개 영상</b>
+		</td>
+		<td align="center">
+			<b>가이드 영상</b>
+		</td>
+	</tr>
+</table>
+
+
+
+
+
+
