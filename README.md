@@ -4,7 +4,7 @@
 
 <table><tbody><tr>
    <td width="50%"><h4 align="center"><a href = "https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/login.png?token=ATMLCX4V42GXTG7E5YNPDITBNWB74"><img src="/image/ui/login.png" width="72.3307%" height="72.3307%"></a><br><br>로그인 페이지 웹</h4></td>
-   <td width="50%"><h4 align="center"><a href="https://raw.githubusercontent.com/osamhack2020/WEB_KookbangFriends_Woowahan/master/image/0_HOME_MOB.jpg"><img src="/image/0_HOME_MOB.jpg" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
+   <td width="50%"><h4 align="center"><a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
     </tr></tbody></table>
 
 <table>
