@@ -10,6 +10,29 @@
   </td>
  </tr>
 </tbody></table>
+<table>
+	<tr>
+		<td>
+			<a><img src="/image/박규한.PNG"></a>
+		</td>
+		<td>
+			<a><img src="/image/GUIDE_THUMBNAIL.png"></a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<b>소개 영상</b>
+		</td>
+		<td align="center">
+			<b>가이드 영상</b>
+		</td>
+	</tr>
+</table>
+
+
+
+
+
 
 ### BackEnd
 <table><tbody>
