@@ -2,10 +2,21 @@
 
 ### 로그인 페이지 / 회원가입 기능
 
-<table><tbody><tr>
-   <td width="65%"><h4 align="center"><a href = "https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/login.png?token=ATMLCX4V42GXTG7E5YNPDITBNWB74"><img src="/image/ui/login.png" width="100%" height="100%"></a><br><br>로그인 페이지 웹</h4></td>
-   <td width="35%"><h4 align="center"><a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
-    </tr></tbody></table>
+<table>
+	<tbody>
+		<tr>
+			<td width="65%">
+				<h4 align="center">
+				<a href = "https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/login.png?token=ATMLCX4V42GXTG7E5YNPDITBNWB74"><img src="/image/ui/login.png" width="100%" height="100%">
+					</a><br><br>로그인 페이지 웹
+				</h4>
+			</td>
+   			<td width="35%">
+	   			<h4 align="center">
+		   		<a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
+    		</tr>
+	</tbody>
+</table>
 
 <table>
         <tbody>
