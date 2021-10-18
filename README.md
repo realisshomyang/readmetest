@@ -221,8 +221,7 @@
 
 
 
-<table>
-	<tbody>
+<table><tbody>
 		<tr>
 			<td colspan=2>
 				<br>
@@ -245,8 +244,7 @@
 	</tbody>
 </table>
 
-<table>
-	<tbody>
+<table><tbody>
 		<tr>
 			<td colspan=2>
 				<br>
