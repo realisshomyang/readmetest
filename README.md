@@ -32,12 +32,10 @@
             <td width="33%"> 상담 내역 리스트 확인 </td>
         </tr>
         <tr>
-            <td rowspan="2"><div align="center"><a href="https://raw.githubusercontent.com/osamhack2020/WEB_KookbangFriends_Woowahan/master/image/9_LIKE.jpg"><img src="/image/9_LIKE_readme.jpg" width="60%" height="60%"></a></div></td>
+            <td><div align="center"><a href="https://raw.githubusercontent.com/osamhack2020/WEB_KookbangFriends_Woowahan/master/image/9_LIKE.jpg"><img src="/image/9_LIKE_readme.jpg" width="60%" height="60%"></a></div></td>
            <td>관심 커뮤니티 피드 확인</td>
         </tr>
-        <tr>
-           <td>상담관 전용 페이지 구축</td>
-        </tr>
+
    </tbody>
 </table>
 
