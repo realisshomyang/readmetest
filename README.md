@@ -5,7 +5,7 @@
 <table>
 	<tbody>
 		<tr>
-			<td colspan=2>
+			<td>
 				<br>
 				<b>ㆍ 🔐 로그인 페이지 / 회원가입 기능</b><br>
 				<br>
