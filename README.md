@@ -6,7 +6,7 @@
 <table><tbody>
  <tr>
   <td width="60">
-   <div align="center"><a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><br>Node.js</div>
+   <div align="center"><a href="https://nodejs.org" target="_blank"> <img src="https://ko.wikipedia.org/wiki/Node.js#/media/%ED%8C%8C%EC%9D%BC:Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a><br>Node.js</div>
   </td>
  </tr>
 </tbody></table>
