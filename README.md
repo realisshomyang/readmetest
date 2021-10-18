@@ -26,6 +26,27 @@
  </tr>
 </tbody></table>
 
+### DataBase
+<table><tbody>
+ <tr>
+  <td width="80">
+   <div align="center"><a href="https://nodejs.org" target="_blank"> <img src="/image/tecstack/mongodb.png" width="90" height="60"/> </a><br>MongoDB</div>
+  </td>
+ </tr>
+</tbody></table>
+
+
+### IOT
+<table><tbody>
+ <tr>
+  <td width="80">
+   <div align="center"><a href="https://nodejs.org" target="_blank"> <img src="/image/tecstack/flutter.png" width="90" height="60"/> </a><br>Flutter</div>
+  </td>
+  <td width="80">
+   <div align="center"><a href="https://nodejs.org" target="_blank"> <img src="/image/tecstack/flutter.png" width="90" height="60"/> </a><br>Flutter</div>
+  </td>
+ </tr>
+</tbody></table>
 
 > 앙기모띠'
 > 
