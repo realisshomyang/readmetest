@@ -22,7 +22,7 @@
 		   		<a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
 		</tr>
 </tbody>
-<table>
+</table>
 
 <table>
 	<tbody>
