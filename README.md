@@ -5,7 +5,12 @@
 <table>
 	<tbody>
 		<tr>
-			<td width="100%">
+			<td colspan=2>
+				<br>
+				<b>ㆍ 📲 로그인 페이지 / 회원가입 기능</b><br>
+				<br>
+			</td>
+			<td width="65%">
 				<h4 align="center">
 				<a href = "https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/login.png?token=ATMLCX4V42GXTG7E5YNPDITBNWB74"><img src="/image/ui/login.png" width="100%" height="100%">
 					</a><br><br>로그인 페이지 웹
