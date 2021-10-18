@@ -2,8 +2,7 @@
 
 ### 로그인 페이지 / 회원가입 기능
 
-<table>
-	<tbody>
+<table><tbody>
 		<tr>
 			<td colspan=2>
 				<br>
@@ -22,8 +21,7 @@
 	   			<h4 align="center">
 		   		<a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>로그인 페이지 앱</h4></td>
 		</tr>
-
-	</tbody>
+</tbody>
 <table>
 
 <table>
