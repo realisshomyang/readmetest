@@ -29,11 +29,11 @@
 		</tr>
 		<tr>
             <td><div align="center"><a href="https://raw.githubusercontent.com/osamhack2020/WEB_KookbangFriends_Woowahan/master/image/mypage1.jpg"><img src="/image/mypage1.jpg" width="60%" height="60%"></a></div></td>
-            <td width="33%"> 상담 내역 리스트 확인 </td>
+            <td width="33%"> 로그인 페이지 웹 </td>
         </tr>
         <tr>
-            <td><div align="center"><a href="https://raw.githubusercontent.com/osamhack2020/WEB_KookbangFriends_Woowahan/master/image/9_LIKE.jpg"><img src="/image/9_LIKE_readme.jpg" width="60%" height="60%"></a></div></td>
-           <td>관심 커뮤니티 피드 확인</td>
+            <td><div align="center"><a href="https://raw.githubusercontent.com/realisshomyang/readmetest/main/image/ui/app_login.png?token=ATMLCXZPAHJM3H7VMVFUOM3BNWCC2"><img src="/image/ui/app_login.png" width="75%" height="75%"></a></div></td>
+           <td>로그인 페이지 앱</td>
         </tr>
 
    </tbody>
