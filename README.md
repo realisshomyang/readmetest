@@ -2,7 +2,7 @@
 
 ### 로그인 페이지 / 회원가입 기능
 
-<table>
+
 	<tbody>
 		<tr>
 			<td colspan=2>
@@ -24,7 +24,7 @@
 		</tr>
 
 	</tbody>
-</table>
+
 
 <table>
 	<tbody>
