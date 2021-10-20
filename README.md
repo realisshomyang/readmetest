@@ -4,7 +4,8 @@
 	<tr>
 		<td>
 			<h4 align="center">
-			<a href="https://www.youtube.com/watch?v=suvEYpgqv18"><img src="/image/후덜덜.jpg" width="75%" height="75%"></a>
+			<a href="https://www.youtube.com/watch?v=suvEYpgqv18"><img src="/image/후덜덜.jpg" width="50%" height="50"></a>
+				<br><br>모두의 창고 소개 영상
 			</h4>
 		</td>
 	</tr>
