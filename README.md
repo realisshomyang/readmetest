@@ -3,7 +3,9 @@
 <table>
 	<tr>
 		<td>
+			<h4 align="center">
 			<a href="https://www.youtube.com/watch?v=suvEYpgqv18"><img src="/image/후덜덜.jpg" width="75%" height="75%"></a>
+			</h4>
 		</td>
 	</tr>
 </table>
