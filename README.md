@@ -3,7 +3,7 @@
 <table>
 	<tr>
 		<td>
-			<a href="https://www.youtube.com/watch?v=suvEYpgqv18"><img src="/image/후덜덜.jpg"></a>
+			<a href="https://www.youtube.com/watch?v=suvEYpgqv18"><img src="/image/후덜덜.jpg" width="75%" height="75%"></a>
 		</td>
 	</tr>
 </table>
