@@ -5,9 +5,6 @@
 		<td>
 			<a href="https://www.youtube.com/watch?v=suvEYpgqv18"><img src="/image/INTRO_THUMBNAIL.png"></a>
 		</td>
-		<td>
-			<a href="https://www.youtube.com/watch?v=Oh-SFOLAom0"><img src="/image/GUIDE_THUMBNAIL.png"></a>
-		</td>
 	</tr>
 </table>
 
