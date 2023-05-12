@@ -20,10 +20,10 @@
 
 ## 목차
 -  [프로젝트 소개](#프로젝트-소개)  
--  [기능 설계 및 설명](#기능-설계-및-설명)  
--  [기술 스택(Technique Used)](#기술-스택-technique-used)  
+-  [기능 설계 및 설명](#기능-설계-및-설명)   
 -  [설치 안내](#설치-안내)
 -  [팀 정보 (Team Information)](#팀-정보-team-information)
+-  [협업 과정](#협업과정)
 -  [저작권 및 사용권 정보(Copyleft / End User License)](#저작권-및-사용권-정보-copyleft--end-user-license)
 
 ## 프로젝트 소개
@@ -31,24 +31,45 @@
 **모두의 창고** 프로젝트는 국군 군수품 관리 체계의 편리함을 증가시키기 위해 개발된 프로젝트입니다. 
 현재 군수품 관리는 실제 창고의 현황(오프라인)과 관리체계(온라인)가 연결되어 있지 않아 창고 정리 때마다 개수를 세며 최신화를 하고있으며 이에 맞게 보급 담당인원이 일일히 군수정보체계에 처리하는 방식으로 운영되고 있습니다.
 
-국방개혁 2.0의 군수개혁 추진에 맞게 모두의 창고는 물품을 IOT,앱,웹 기반으로 군수품 원격 관리체계를 구축하는 것이 목표입니다. 이에 맞게 크게 2가지 키워드를 바탕으로 프로젝트를 진행하였습니다.
-![image](https://user-images.githubusercontent.com/81310047/137630858-65433ec1-5d05-4a96-95b1-b7089d725f7e.png)
 
-![image](https://user-images.githubusercontent.com/81310047/137630861-a9660501-e018-4e7d-9638-36aca646c996.png)
-
-## 소개 영상
-[![Video Label](http://img.youtube.com/vi/rm6ZiT32iCo/0.jpg)](https://youtu.be/rm6ZiT32iCo)
 
 ## Service Flow
 <p align="center"><img src="/image/ui/flowChart.png"></p>
 
 ## 기능 설계 및 설명
 >모든 사진은 클릭 시 확대 된 이미지로 확인할 수 있습니다.😀
+
+<table><tbody>
+		<tr>
+			<td colspan=3>
+				<br>
+				<b>파일 브라우저 기능 </b><br>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td width="33%">
+				<h4 align="center">
+				<a href = "https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/web_login.png"><img src="/image/ui/web_login.png" width="75%" height="75%">
+					</a><br><br> 파일 탐색은 루트 디렉토리에서 시작
+				</h4>
+			</td>
+			<td width="33%">
+	   			<h4 align="center">
+		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_login.png"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>현재 디렉토리에 포함된 모든 파일과 디렉토리는 아이콘, 이름, 확장자로 표현 </h4></td>
+            <td width="33%">
+	   			<h4 align="center">
+		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_login.png"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>더블 클릭을 통해 브라우징 가능 </h4></td>
+		</tr>
+</tbody>
+</table>
+
+
 <table><tbody>
 		<tr>
 			<td colspan=2>
 				<br>
-				<b>ㆍ Git add 기능 </b><br>
+				<b>Git init 기능 </b><br>
 				<br>
 			</td>
 		</tr>
@@ -56,16 +77,52 @@
 			<td width="50%">
 				<h4 align="center">
 				<a href = "https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/web_login.png"><img src="/image/ui/web_login.png" width="75%" height="75%">
-					</a><br><br>Git repository가 아닌 디렉토리인 경우
+					</a><br><br>Git repository가 아닌 디렉토리인 경우 -> init 버튼 활성화
 				</h4>
 			</td>
 			<td width="50%">
 	   			<h4 align="center">
-		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_login.png"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>이미 Git repository인 경우 init 버튼 비활성화</h4></td>
+		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_login.png"><img src="/image/ui/app_login.png" width="75%" height="75%"></a><br><br>이미 Git repository인 디렉토리의 경우 -> init 버튼 비활성화</h4></td>
 		</tr>
 </tbody>
 </table>
 
+
+<table><tbody>
+		<tr>
+			<td colspan=4>
+				<br>
+				<b>Git status에 따른 파일 상태 표시</b><br>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td width="25%">
+				<h4 align="center">
+				<a href = "https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/web_history.png"><img src="/image/ui/web_storages_detail_page.png" width="100%" height="100%">
+					</a><br><br>staging된 파일 표시
+				</h4>
+			</td>
+			<td width="25%">
+	   			<h4 align="center">
+		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_storages_detail_page.png"><img src="/image/ui/app_storages_detail_page.png" width="75%" height="75%"></a><br><br>창고 내 물품 재고확인 앱</h4></td>
+                <td width="25%">
+	   			<h4 align="center">
+		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_storages_detail_page.png"><img src="/image/ui/app_storages_detail_page.png" width="75%" height="75%"></a><br><br>창고 내 물품 재고확인 앱</h4></td>
+                <td width="25%">
+	   			<h4 align="center">
+		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_storages_detail_page.png"><img src="/image/ui/app_storages_detail_page.png" width="75%" height="75%"></a><br><br>창고 내 물품 재고확인 앱</h4></td>
+		</tr>
+</tbody>
+</table>
+Stage를 4가지로 나눴습니다. 
+
+1. Staged 
+2. unstaged(modified)
+3. committed(unmodified) 
+4. staged - unstaged(staging된 상태에서 파일을 변경한 경우)) 
+
+untracked - staged 된 파일 ex) git rm --cached 명령어 실행 시에는 untracked를 우선순위로 동작하게 만들었습니다.
 <table><tbody>
 		<tr>
 			<td colspan=2>
@@ -78,15 +135,16 @@
 			<td width="65%">
 				<h4 align="center">
 				<a href = "https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/web_viewStorage.png"><img src="/image/ui/web_viewStorage.png" width="100%" height="100%">
-					</a><br><br>부대 내 창고 관리 및 확인 웹
+					</a><br><br> 한 파일 선택시 그 파일만 add 가능
 				</h4>
 			</td>
 			<td width="35%">
 	   			<h4 align="center">
-		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_storages_page.png"><img src="/image/ui/app_storages_page.png" width="75%" height="75%"></a><br><br>부대 내 창고 관리 및 확인 앱</h4></td>
+		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_storages_page.png"><img src="/image/ui/app_storages_page.png" width="75%" height="75%"></a><br><br>선택된 파일이 없을 시에는 git add . 동작</h4></td>
 		</tr>
 </tbody>
 </table>
+
 
 <table><tbody>
 		<tr>
@@ -100,34 +158,12 @@
 			<td width="65%">
 				<h4 align="center">
 				<a href = "https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/web_history.png"><img src="/image/ui/web_storages_detail_page.png" width="100%" height="100%">
-					</a><br><br>창고 내 물품 재고확인 웹
+					</a><br>커밋 메뉴 클릭 시 staging된 change를 보여줌. <br>
 				</h4>
 			</td>
 			<td width="35%">
 	   			<h4 align="center">
-		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_storages_detail_page.png"><img src="/image/ui/app_storages_detail_page.png" width="75%" height="75%"></a><br><br>창고 내 물품 재고확인 앱</h4></td>
-		</tr>
-</tbody>
-</table>
-
-<table><tbody>
-		<tr>
-			<td colspan=2>
-				<br>
-				<b>Git add 기능</b><br>
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td width="65%">
-				<h4 align="center">
-				<a href = "https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/web_history.png"><img src="/image/ui/web_history.png" width="100%" height="100%">
-					</a><br><br>입출고 내역 확인 웹
-				</h4>
-			</td>
-			<td width="35%">
-	   			<h4 align="center">
-		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_history.png"><img src="/image/ui/app_history.png" width="75%" height="75%"></a><br><br>입출고 내역 확인 앱</h4></td>
+		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_storages_detail_page.png"><img src="/image/ui/app_storages_detail_page.png" width="75%" height="75%"></a><br><br>커밋을 확인하면 repo에 커밋 적용 및 staged -> committed로 change</h4></td>
 		</tr>
 </tbody>
 </table>
@@ -145,12 +181,12 @@
 			<td width="65%">
 				<h4 align="center">
 				<a href = "https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/web_history.png"><img src="/image/ui/web_history.png" width="100%" height="100%">
-					</a><br><br>입출고 내역 확인 웹
+					</a><br><br>Git restore 작동 modified된 파일을 committed상태로 되돌림
 				</h4>
 			</td>
 			<td width="35%">
 	   			<h4 align="center">
-		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_history.png"><img src="/image/ui/app_history.png" width="75%" height="75%"></a><br><br>입출고 내역 확인 앱</h4></td>
+		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_history.png"><img src="/image/ui/app_history.png" width="75%" height="75%"></a><br><br>git restore --staged staged된 파일을 modified 상태로 되돌림</h4></td>
 		</tr>
 </tbody>
 </table>
@@ -168,12 +204,12 @@
 			<td width="65%">
 				<h4 align="center">
 				<a href = "https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/web_history.png"><img src="/image/ui/web_history.png" width="100%" height="100%">
-					</a><br><br>입출고 내역 확인 웹
+					</a><br><br>git rm -> 실제 디렉토리에서 삭제
 				</h4>
 			</td>
 			<td width="35%">
 	   			<h4 align="center">
-		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_history.png"><img src="/image/ui/app_history.png" width="75%" height="75%"></a><br><br>입출고 내역 확인 앱</h4></td>
+		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_history.png"><img src="/image/ui/app_history.png" width="75%" height="75%"></a><br><br>git rm --cached -> 실제 디렉토리에서 삭제되진 않았지만 git repository에서 삭제됨(untracked)됨</h4></td>
 		</tr>
 </tbody>
 </table>
@@ -191,32 +227,43 @@
 			<td width="65%">
 				<h4 align="center">
 				<a href = "https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/web_history.png"><img src="/image/ui/web_history.png" width="100%" height="100%">
-					</a><br><br>입출고 내역 확인 웹
+					</a><br><br>파일 이름 변경
 				</h4>
 			</td>
 			<td width="35%">
 	   			<h4 align="center">
-		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_history.png"><img src="/image/ui/app_history.png" width="75%" height="75%"></a><br><br>입출고 내역 확인 앱</h4></td>
+		   		<a href="https://raw.githubusercontent.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper/edit/image/ui/app_history.png"><img src="/image/ui/app_history.png" width="75%" height="75%"></a><br><br>staging 표시</h4></td>
 		</tr>
 </tbody>
 </table>
 
 ## 설치 안내
 
--   **git clone**
+### Needs for running
+
+```bash
+Python 3.8+
+pip (package installer for Python)
+```
+설치 순서 
+
+
 ```bash\
-git clone https://github.com/osamhack2021/WEB_APP_IOT_ModuChangGo_Chang-keeper.git
+git clone https://github.com/CAU-OSS-project-practice/file-manager.git
+cd file-manager
+pip install -r requirements.txt
+python3 files_new.py
 ```
--   **FrontEnd**
+tkinter 라이브러리 오류 또는 파이썬 버전 충돌 시 가상환경에서 동작
+
 ```bash
-cd 'WEB(FE)'
-flutter run -d web-server --web-hostname=0.0.0.0
+python -m venv .venv # .venv 생성
+source .venv/bin/activate # 가상환경 실행
 ```
--   **BackEnd**
+
+가상환경 비활성화
 ```bash
-cd WEB_APP_IOT_ModuChangGo_Chang-keeper/'WEB(BE)'
-npm install
-npm start
+deactivate
 ```
 
 ## 팀 정보 (Team Information)
@@ -246,7 +293,7 @@ npm start
 </tr>
 <tr>
 <td width="100" align="center"><img src="/image/김태한.jpg" width="60" height="60"></td>
-<td width="100" align="center">김태한</td>
+<td width="100" align="center">최우형</td>
 <td width="300">앱 개발<br>서버/프런트 간 통신 구현<br>서버 테스트<br></td>
 </td>
 <td width="100" align="center">
@@ -258,20 +305,7 @@ npm start
 	<a href="mailto:tk5582lm@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=tk5582lm@gmail.com&color=green&style=flat-square&logo=gmail"></a>
 	</td>
 </tr>
-<tr>
-<td width="100" align="center"><img src="/image/허승준.jpg" width="60" height="60"></td>
-<td width="100" align="center">허승준</td>
-<td width="300"> 개발<br>API 설계<br></td>
-</td>
-<td width="100" align="center">
-	<a href="https://github.com/superjunn">
-		<img src="http://img.shields.io/badge/superjunn-655ced?style=social&logo=github"/>
-	</a>
-</td>
-<td width="175" align="center">
-	<a href="mailto:superjunn00@gmail.com.com"><img src="https://img.shields.io/static/v1?label=&message=superjunn00@gmail.com&color=green&style=flat-square&logo=gmail"></a>
-	</td>
-</tr>
+
 <tr>
 <td width="100" align="center"><img src="/image/조명근.PNG" width="60" height="60"></td>
 <td width="100" align="center">조명근</td>
@@ -289,6 +323,9 @@ npm start
 </tr>
 </tbody>
 </table>
+
+## 협업과정
+Git 
 
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
