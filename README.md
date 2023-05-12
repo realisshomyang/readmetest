@@ -1,5 +1,5 @@
 
-# 모두의창고
+# Python-file-explorer(with git) develop by OSS-TEAM-13
 <p align="center"><img src="/image/모두의 창고3.PNG"></p>
 
 <p align="center">
